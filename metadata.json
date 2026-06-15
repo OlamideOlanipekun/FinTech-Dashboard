@@ -1,0 +1,6 @@
+{
+  "name": "FinTech Dashboard",
+  "description": "A high-performance Personal Finance & Business Payments Dashboard for African SMEs and freelancers to track cash flow, invoices, payments, cards, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
